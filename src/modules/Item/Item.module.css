@@ -1,0 +1,15 @@
+.item{
+    list-style: none;
+    box-shadow: 0 0 3px 3px black;
+    min-height: 40px;
+    margin-top: 15px;
+    line-height: 40px;
+    background-color: rgb(255,255,255);
+    border-radius:10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.item:hover{
+    cursor:pointer;
+}
